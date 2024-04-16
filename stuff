@@ -1,0 +1,5 @@
+#?dice=@num_dice&sides=@sides 
+
+<a href="/process_roll">Roll again</a>
+
+<a href="/">Go back home</a> -->
